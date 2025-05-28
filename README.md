@@ -183,3 +183,8 @@ and percentage_laid_off is null;
 alter table layoffs_staging3
 drop column row_num;
 ```
+## Before Cleaning
+![]()
+
+## After Cleaning
+![]()
