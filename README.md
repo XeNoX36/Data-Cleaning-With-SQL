@@ -184,7 +184,7 @@ alter table layoffs_staging3
 drop column row_num;
 ```
 ## Before Cleaning
-![]()
+![](https://github.com/XeNoX36/Data-Cleaning-With-SQL/blob/main/Before%20Cleaning.png)
 
 ## After Cleaning
-![]()
+![](https://github.com/XeNoX36/Data-Cleaning-With-SQL/blob/main/Cleaned.png)
